@@ -24,6 +24,7 @@ group :development do
 end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'bootstrap', '~> 4.0.0.alpha6'
+gem 'foundation-rails'
 gem 'high_voltage'
 gem 'jquery-rails'
 gem 'pg'
