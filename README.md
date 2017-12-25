@@ -1,6 +1,8 @@
 Rails Bootstrap
 ================
 
+[![CircleCI](https://circleci.com/gh/jetthoughts/playground-for-speedup-tests-by-precompile-assets.svg?style=svg)](https://circleci.com/gh/jetthoughts/playground-for-speedup-tests-by-precompile-assets)
+
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
