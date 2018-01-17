@@ -1,4 +1,4 @@
-Rails Bootstrap
+Rails Bootstrap for https://jtway.co/4-lines-to-speed-up-your-rails-test-suite-on-ci-744e4326e8a3
 ================
 
 [![CircleCI](https://circleci.com/gh/jetthoughts/playground-for-speedup-tests-by-precompile-assets.svg?style=svg)](https://circleci.com/gh/jetthoughts/playground-for-speedup-tests-by-precompile-assets)
